@@ -32,6 +32,15 @@
   Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
 </p>
 
+## Alerts
+
+<img src="images/alerts.png" alt="Watch, fork, and star the repo to get alerts on new jobs.">
+
+**Don't miss new opportunities!**  
+- 🌟 **Star this repo** to get updates on your GitHub dashboard.
+- 👁️ **Watch** for instant notifications on new jobs.
+- 🔔 **Turn on notifications** to never miss FAANG+ postings.
+
 ## Resume Samples
 
 ![100% ATS-compliant resumes across 10 industries.](images/resume-samples.png)
@@ -129,7 +138,10 @@
 
 ---
 
-<p align="center">
+<div align="center">
+
+**Found this helpful? Give it a ⭐ to support Zapply!**
+<br>
 <sub>
 Icons from <a href="https://www.flaticon.com">Flaticon</a> by 
 <a href="https://www.flaticon.com/authors/freepik">Freepik</a>; 
@@ -141,4 +153,4 @@ Icons from <a href="https://www.flaticon.com">Flaticon</a> by
 <a href="https://www.flaticon.com/authors/dewi-sari">Dewi Sari</a>; 
 <a href="https://www.flaticon.com/authors/pop-vectors">Pop Vectors</a>.
 </sub>
-</p>
+</div>
