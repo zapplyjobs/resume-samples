@@ -31,35 +31,42 @@ These resources were created in collaboration with an industry-leading resume wr
 
 ## Resume Samples
 
-<p align="center">
-  <a href=""><img src="images/resume-tech.png" alt="" width="250"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="images/resume-marketing.png" alt="" width="250"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="images/resume-finance.png" alt="" width="250"></a>
-</p>
+
+
+|  Tech  |  Marketing  |  Finance  |
+|:------:|:-----------:|:---------:|
+| <img src="images/resume-tech.png" width="300"> | <img src="images/resume-marketing.png" width="300"> | <img src="images/resume-finance.png" width="300"> |
+
+|  HR  |  Product  |  Sales  |
+|:----:|:---------:|:-------:|
+| <img src="images/resume-hr.png" width="300"> | <img src="images/resume-product.png" width="300"> | <img src="images/resume-sales.png" width="300"> |
+
+|  Project Management  |  Operations  |  Healthcare  |
+|:--------------------:|:------------:|:------------:|
+| <img src="images/resume-project.png" width="300"> | <img src="images/resume-operations.png" width="300"> | <img src="images/resume-healthcare.png" width="300"> |
+
+<table align="center">
+  <tr>
+    <th>Supply Chain</th>
+    <th>Federal</th>
+  </tr>
+  <tr>
+    <td><img src="images/resume-supply-chain.png" width="300"></td>
+    <td><img src="images/resume-federal.png" width="300"></td>
+  </tr>
+</table>
+
+---
 
 <p align="center">
-  <a href=""><img src="images/resume-hr.png" alt="" width="250"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="images/resume-product.png" alt="" width="250"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="images/resume-sales.png" alt="" width="250"></a>
+<sub>
+Icons from <a href="https://www.flaticon.com">Flaticon</a> by 
+<a href="https://www.flaticon.com/authors/freepik">Freepik</a>; 
+<a href="https://www.flaticon.com/authors/smashicons">Smashicons</a>; 
+<a href="https://www.flaticon.com/authors/monkik">monkik</a>; 
+<a href="https://www.flaticon.com/authors/flat-icons">Flat Icons</a>; 
+<a href="https://www.flaticon.com/authors/eucalyp">Eucalyp</a>; 
+<a href="https://www.flaticon.com/authors/graphiqa">Graphiqa</a>; 
+<a href="https://www.flaticon.com/authors/dewi-sari">Dewi Sari</a>.
+</sub>
 </p>
-
-<p align="center">
-  <a href=""><img src="images/resume-project.png" alt="" width="250"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="images/resume-operations.png" alt="" width="250"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="images/resume-healthcare.png" alt="" width="250"></a>
-</p>
-
-
-<p align="center">
-  <a href=""><img src="images/resume-supply-chain.png" alt="" width="250"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="images/resume-healthcare.png" alt="" width="250"></a>
-</p>
-
-
