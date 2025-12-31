@@ -31,5 +31,20 @@ These resources were created in collaboration with an industry-leading resume wr
 
 ## Resume Samples
 
-<img src="images/resume-hr.png" alt="Resume Sample - Human Resources" width="250"></a>
+<p align="center">
+  <a href=""><img src="images/resume-tech.png" alt="" width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="images/resume-marketing.png" alt="" width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="images/resume-finance.png" alt="" width="250"></a>
+</p>
+
+<p align="center">
+  <a href=""><img src="images/resume-hr.png" alt="" width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="images/resume-product.png" alt="" width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="images/resume-sales.png" alt="" width="250"></a>
+</p>
+
 
