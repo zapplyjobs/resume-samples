@@ -64,22 +64,22 @@ These resources were created in collaboration with an industry-leading resume wr
 
 |  Tech  |  Marketing  |  Finance  |
 |:------:|:-----------:|:---------:|
-| <a href=""><img src="images/cover-letter-tech.png" width="300"></a> | <a href=""><img src="images/cover-letter-marketing.png" width="300"></a> | <a href=""><img src="images/cover-letter-finance.png" width="300"></a> |
+| <a href="https://drive.google.com/uc?export=download&id=1Ay7tgSjlYlfIIApyY77HbMHh3iwtxuq2"><img src="images/cover-letter-tech.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=1CMF6xTnizHUJ8zxWmyt7kAYJciMPgDL0"><img src="images/cover-letter-marketing.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=1jehBEPXR61IrLOGHAwPj97bOcJ-fVFBX"><img src="images/cover-letter-finance.png" width="300"></a> |
 
 |  HR  |  Product  |  Sales  |
 |:----:|:---------:|:-------:|
-| <a href=""><img src="images/cover-letter-hr.png" width="300"></a> | <a href=""><img src="images/cover-letter-product.png" width="300"></a> | <a href=""><img src="images/cover-letter-sales.png" width="300"></a> |
+| <a href="https://drive.google.com/uc?export=download&id=1puK_DwMOdYUXC-sAp0TvNTLOYeYXvdRY"><img src="images/cover-letter-hr.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=1JvH9W9zQEKaNtVv3hYW-_bxOEdFdyM1X"><img src="images/cover-letter-product.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=1NqbU9TcfhPYeR253Duiqc8g8iYELAmat"><img src="images/cover-letter-sales.png" width="300"></a> |
 
 |  Project Management  |  Operations  |  Healthcare  |
 |:--------------------:|:------------:|:------------:|
-| <a href=""><img src="images/cover-letter-project.png" width="300"></a> | <a href=""><img src="images/cover-letter-operations.png" width="300"></a> | <a href=""><img src="images/cover-letter-healthcare.png" width="300"></a> |
+| <a href="https://drive.google.com/uc?export=download&id=1YExI7YhdR0MH7FHmhN-vCHBwbyuVJzCY"><img src="images/cover-letter-project.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=17dJJqS7IrqtZvgSXw_83N-iOitjqP4f6"><img src="images/cover-letter-operations.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=1TZdYh5EX9KgiX7hGncJGTiodUe40NILE"><img src="images/cover-letter-healthcare.png" width="300"></a> |
 
 <table align="center">
   <tr>
     <th>Supply Chain</th>
   </tr>
   <tr>
-    <td><a href=""><img src="images/cover-letter-supply-chain.png" width="300"></a></td>
+    <td><a href="https://drive.google.com/uc?export=download&id=1eaT__lw6CXSxoogMl1oVrl9x-Ngf1usg"><img src="images/cover-letter-supply-chain.png" width="300"></a></td>
   </tr>
 </table>
 
