@@ -58,6 +58,16 @@ These resources were created in collaboration with an industry-leading resume wr
 
 ---
 
+## Resume Templates
+
+// ![Customizable templates with helpful tips for each section.](images/.png)
+
+|  1-Page  |  2-Page  |  Federal  |
+|:------:|:-----------:|:---------:|
+| <a href=""><img src="images/template-1-page-resume.png" width="300"></a> | <a href=""><img src="images/template-2-page-resume.png" width="300"></a> | <a href=""><img src="images/template-federal-resume.png" width="300"></a> |
+
+---
+
 ## Cover Letter Samples
 
 ![Job-winning cover letters that complement your resume.](images/cover-letter-samples.png)
