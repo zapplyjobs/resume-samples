@@ -31,19 +31,17 @@ These resources were created in collaboration with an industry-leading resume wr
 
 ## Resume Samples
 
-
-
 |  Tech  |  Marketing  |  Finance  |
 |:------:|:-----------:|:---------:|
-| <a href="resources/Resume Sample - Tech.docx"><img src="images/resume-tech.png" width="300"></a> | <img src="images/resume-marketing.png" width="300"> | <img src="images/resume-finance.png" width="300"> |
+| <a href="https://drive.google.com/uc?export=download&id=1Zya_vNiP6HLsiYK9rBSqWnDVhV5ruVW9"><img src="images/resume-tech.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=1Nj8A4F0dV3jHF6UgedBCAsSPvDsPtX1o"><img src="images/resume-marketing.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=1YsS8UK2vwNwrKjXEqi-eZr4wu7zoDblH"><img src="images/resume-finance.png" width="300"></a> |
 
 |  HR  |  Product  |  Sales  |
 |:----:|:---------:|:-------:|
-| <img src="images/resume-hr.png" width="300"> | <img src="images/resume-product.png" width="300"> | <img src="images/resume-sales.png" width="300"> |
+| <a href="https://drive.google.com/uc?export=download&id=14CJv0mxW8O-CMZpXEotgMVLDHFkM8vHj"><img src="images/resume-hr.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=1_1jP5Dxe0RZ4w3-qeu7haAD9zMaLquHj"><img src="images/resume-product.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=12ymk1m4Zjbhuv0BtxxALi3dCpGce8C-z"><img src="images/resume-sales.png" width="300"></a> |
 
 |  Project Management  |  Operations  |  Healthcare  |
 |:--------------------:|:------------:|:------------:|
-| <img src="images/resume-project.png" width="300"> | <img src="images/resume-operations.png" width="300"> | <img src="images/resume-healthcare.png" width="300"> |
+| <a href="https://drive.google.com/uc?export=download&id=1iBROUuiHjl7UTxdaSvCtadrIrkvx_pdY"><img src="images/resume-project.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=1-lYFizs__9Vq6Ev7siR4XyBDhJ5Ly1ag"><img src="images/resume-operations.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=19qXTz_9eRgPp7_Spp5msPI4lx04MQO0B"><img src="images/resume-healthcare.png" width="300"></a> |
 
 <table align="center">
   <tr>
@@ -51,8 +49,8 @@ These resources were created in collaboration with an industry-leading resume wr
     <th>Federal</th>
   </tr>
   <tr>
-    <td><img src="images/resume-supply-chain.png" width="300"></td>
-    <td><img src="images/resume-federal.png" width="300"></td>
+    <td><a href="https://drive.google.com/uc?export=download&id=1c7H4O54X9udGSbO9gFI3pp6V9rj2tSEi"><img src="images/resume-supply-chain.png" width="300"></a></td>
+    <td><a href="https://drive.google.com/uc?export=download&id=1PvhdvQIZV35knqxPMZ71zbHYlgk-2HlX"><img src="images/resume-federal.png" width="300"></a></td>
   </tr>
 </table>
 
@@ -67,6 +65,7 @@ Icons from <a href="https://www.flaticon.com">Flaticon</a> by
 <a href="https://www.flaticon.com/authors/flat-icons">Flat Icons</a>; 
 <a href="https://www.flaticon.com/authors/eucalyp">Eucalyp</a>; 
 <a href="https://www.flaticon.com/authors/graphiqa">Graphiqa</a>; 
-<a href="https://www.flaticon.com/authors/dewi-sari">Dewi Sari</a>.
+<a href="https://www.flaticon.com/authors/dewi-sari">Dewi Sari</a>; 
+<a href="https://www.flaticon.com/authors/pop-vectors">Pop Vectors</a>.
 </sub>
 </p>
