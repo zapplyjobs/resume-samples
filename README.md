@@ -35,7 +35,7 @@ These resources were created in collaboration with an industry-leading resume wr
 
 |  Tech  |  Marketing  |  Finance  |
 |:------:|:-----------:|:---------:|
-| <img src="images/resume-tech.png" width="300"> | <img src="images/resume-marketing.png" width="300"> | <img src="images/resume-finance.png" width="300"> |
+| <a href="resources/Resume Sample - Tech.docx"><img src="images/resume-tech.png" width="300"></a> | <img src="images/resume-marketing.png" width="300"> | <img src="images/resume-finance.png" width="300"> |
 
 |  HR  |  Product  |  Sales  |
 |:----:|:---------:|:-------:|
