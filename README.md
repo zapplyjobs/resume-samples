@@ -1,8 +1,9 @@
 # <p align="center"> Resume Samples 2026 </p>
 
-This repo includes samples and best practices to help you create an ATS-compliant resume that will also impress recruiters and interviewers. It also includes other resources, such as cover letter and LinkedIn profile samples.
+<p align="center">This repo includes samples and best practices to help you create an ATS-compliant resume that will also impress recruiters and interviewers. It also includes other resources, such as cover letter and LinkedIn profile samples.</p>
 
-These resources were created in collaboration with an industry-leading resume writer with 7+ years of experience.
+> [!NOTE]
+> These resources were created in collaboration with an industry-leading resume writer with 7+ years of experience.
 
 <p align="center">
   This repo is maintained in collaboration with <a href="https://zapply.jobs">
