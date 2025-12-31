@@ -62,6 +62,27 @@ These resources were created in collaboration with an industry-leading resume wr
 
 ![Job-winning cover letters that complement your resume.](images/cover-letter-samples.png)
 
+|  Tech  |  Marketing  |  Finance  |
+|:------:|:-----------:|:---------:|
+| <a href=""><img src="images/cover-letter-tech.png" width="300"></a> | <a href=""><img src="images/cover-letter-marketing.png" width="300"></a> | <a href=""><img src="images/cover-letter-finance.png" width="300"></a> |
+
+|  HR  |  Product  |  Sales  |
+|:----:|:---------:|:-------:|
+| <a href=""><img src="images/cover-letter-hr.png" width="300"></a> | <a href=""><img src="images/cover-letter-product.png" width="300"></a> | <a href=""><img src="images/cover-letter-sales.png" width="300"></a> |
+
+|  Project Management  |  Operations  |  Healthcare  |
+|:--------------------:|:------------:|:------------:|
+| <a href=""><img src="images/cover-letter-project.png" width="300"></a> | <a href=""><img src="images/cover-letter-operations.png" width="300"></a> | <a href=""><img src="images/cover-letter-healthcare.png" width="300"></a> |
+
+<table align="center">
+  <tr>
+    <th>Supply Chain</th>
+  </tr>
+  <tr>
+    <td><a href=""><img src="images/cover-letter-supply-chain.png" width="300"></a></td>
+  </tr>
+</table>
+
 ---
 
 ## LinkedIn Samples
