@@ -58,6 +58,18 @@ These resources were created in collaboration with an industry-leading resume wr
 
 ---
 
+## Cover Letter Samples
+
+![Job-winning cover letters that complement your resume.](images/cover-letter-samples.png)
+
+---
+
+## LinkedIn Samples
+
+![Stand out to recruiters and expand your network.](images/linkedin-samples.png)
+
+---
+
 <p align="center">
 <sub>
 Icons from <a href="https://www.flaticon.com">Flaticon</a> by 
