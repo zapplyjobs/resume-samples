@@ -1,4 +1,4 @@
-# Resume Samples 2026
+# <p align="center"> Resume Samples 2026 </p>
 
 This repo includes samples and best practices to help you create an ATS-compliant resume that will also impress recruiters and interviewers. It also includes other resources, such as cover letter and LinkedIn profile samples.
 
@@ -30,6 +30,8 @@ These resources were created in collaboration with an industry-leading resume wr
 </p>
 
 ## Resume Samples
+
+![100% ATS-compliant resumes across 10 industries.](images/resume-samples.png)
 
 |  Tech  |  Marketing  |  Finance  |
 |:------:|:-----------:|:---------:|
