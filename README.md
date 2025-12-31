@@ -47,4 +47,19 @@ These resources were created in collaboration with an industry-leading resume wr
   <a href=""><img src="images/resume-sales.png" alt="" width="250"></a>
 </p>
 
+<p align="center">
+  <a href=""><img src="images/resume-project.png" alt="" width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="images/resume-operations.png" alt="" width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="images/resume-healthcare.png" alt="" width="250"></a>
+</p>
+
+
+<p align="center">
+  <a href=""><img src="images/resume-supply-chain.png" alt="" width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="images/resume-healthcare.png" alt="" width="250"></a>
+</p>
+
 
